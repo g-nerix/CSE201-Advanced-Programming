@@ -27,7 +27,7 @@ class Vaccine {
     // add vaccines
 
     void add(String n, int rD, int g){
-        if()
+        // if()
     }
 
 }
@@ -123,11 +123,11 @@ class portal {
 
     }
     void addVaccine(String n, int rD, int g){
-        boolean exist(String n){
+        // boolean exist(String n){
 
-        }
+        // }
 //            for(int i = 0; i < )
-        }
+        // }
     }
 
 
