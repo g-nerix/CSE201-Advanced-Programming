@@ -6,3 +6,5 @@ Assignment 1
 
 Assignment 2
   - Version 1 : very rough [unorganised] working version of the required program. 
+  - Version 2 : corrected some mistakes in version 1 and made each attribute Private.
+  
