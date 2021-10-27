@@ -10,3 +10,6 @@ Assignment 2
   
 Assignment 3
   - Version 1 : [not thoroughly reviewed] working version of the required program.
+  - Version 2 : corrected some minor implementation mistakes form version 1 and added BONUS functionality.
+  
+  => BONUS FUNCTIONALITY : Keep track of Highscore and allow user to play multiple times and notify if a Highscore is acheieved.   
